@@ -1,0 +1,53 @@
+
+    .jumbotron{
+
+      background-color: none;
+      background-image: url("https://insidespacedesign.files.wordpress.com/2013/06/moroccan-lamps-3.jpg") 
+    
+    }
+.btn-lg{
+  font-size:36px;
+}
+    body{
+
+    background-color:none;
+    
+    background-image: url("https://pouringmyartout.files.wordpress.com/2019/05/a-1-5.jpg?w=640"); 
+    }
+
+     }
+     .template{
+        background-color:blue;
+        text-align: center;
+        font-size: 25px;
+        border-top-width: 120px;
+        
+   }
+
+   .container1{
+
+    color: yellow;
+   }
+
+  .btn-secondary{
+
+    font-size: 30px;
+    color:brown;
+}
+h1{
+
+  color:yellow;
+} 
+
+h2{
+
+color:blue;
+
+}
+ .container1{
+
+  padding-top: 80px;
+  margin-top: 80px;
+  color:blue;
+ }
+
